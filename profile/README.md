@@ -30,19 +30,17 @@
 | 서비스 | 내용 |
 |---|---|
 | **[사주J](https://sajuj.com)** | AI 기반 사주·궁합 명리 서비스 (LLM 해석 · 실시간 상담 · 결제) |
-| **에그호스팅** | 웹 · VM · 베어메탈 클라우드 호스팅 (자체 LXD/Ceph 클러스터 운영) |
-| **HitRate** | KBO 야구 데이터 분석 · 승부 예측 (투구 단위 데이터 기반) |
+| **[에그호스팅](https://egghosting.com)** | 웹 · VM · 베어메탈 클라우드 호스팅 |
+| **[HitRate](https://hitrate.co.kr)** | KBO 야구 데이터 분석 · 승부 예측 (투구 단위 데이터 기반) |
 | **만리향** | 한국주식 분석 (시세 · 차트 · 기술/기본 지표 · AI) |
 
-## 🛠 제공 서비스 (What We Offer)
+## 🛠 사업 영역 (What We Do)
 
-| 분야 | 내용 |
-|---|---|
-| **웹 / 앱 개발** | 비즈니스 맞춤형 솔루션 |
-| **서버 호스팅** | 안정 · 합리 · 확장성 |
-| **HRDLMS** | 5만+ 동시접속 교육관리 시스템 |
-| **ARTFLEET** | 동영상 스트리밍 |
-| **실시간 · 결제** | STOMP 실시간 채팅 · PG 통합 등 |
+고객사를 위한 IT 전 과정을 책임집니다 — 기획부터 개발 · 운영까지.
+
+**웹 · 앱 개발** · **시스템 구축(SI)** · **클라우드 호스팅** · **IT 유지보수** · **AI / LLM 통합** · **실시간 · 결제 솔루션**
+
+> **대표 구축** — **HRDLMS** (HRD · 교육 관리 · [hrdlo.com](https://hrdlo.com) · 5만+ 동시접속) · **ARTFLEET** (동영상 스트리밍)
 
 ## 🧩 공유 모듈 플랫폼
 
@@ -62,7 +60,7 @@
 | **데스크톱** | Electron |
 | **AI / ML** | LLM (Claude · OpenAI) · Ollama · RAG(벡터 검색) · FastAPI |
 | **실시간 / 데이터** | STOMP · WebSocket · PostgreSQL · Redis |
-| **인프라 / DevOps** | Docker · LXD · Ceph · Nginx · Nexus |
+| **인프라 / DevOps** | Docker · Nginx · Nexus · GitHub Actions · Linux |
 
 ## 📫 연락
 
