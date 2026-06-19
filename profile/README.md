@@ -49,7 +49,7 @@
 | **공공기관 평생교육 LMS** | 학습관리시스템(LMS) 납품 · 유지보수 — [북리드평생교육원](https://bookread.co.kr) · [엠엠씨평생교육원](https://everbook.kr) |
 | **[강촌레일파크](https://www.railpark.co.kr) 포토키오스크** | 포토 키오스크 납품 |
 | **[용산 크래쉬인](https://www.crashin-yongsan.com) 무인 키오스크** | 무인 매장 키오스크 — 결제 연동 출입 도어 관제(결제 시 자동 개폐) · 결제 프로그램 |
-| **고영 · 사세** | 기업 홈페이지 유지보수 |
+| **[고영](https://kohyoung.com/kr/) · [사세](https://sase.co.kr/html/index/)** | 기업 홈페이지 유지보수 |
 | **ARTFLEET** | 동영상 스트리밍 |
 
 ## 🧩 공유 모듈 플랫폼
