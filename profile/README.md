@@ -46,8 +46,9 @@
 | 프로젝트 | 내용 |
 |---|---|
 | **[포항 스틸러스 관리 플랫폼](https://ph.teamlook.kr)** | K리그 구단 관리 플랫폼 · 납품 및 유지보수 |
-| **[북리드평생교육원](https://bookread.co.kr)** · **[엠엠씨평생교육원](https://everbook.kr)** | 평생교육 플랫폼 구축 · 유지보수 |
-| **공공기관 LMS** | 학습관리시스템(LMS) 납품 및 유지보수 |
+| **공공기관 평생교육 LMS** | 학습관리시스템(LMS) 납품 · 유지보수 — [북리드평생교육원](https://bookread.co.kr) · [엠엠씨평생교육원](https://everbook.kr) |
+| **[강촌레일파크](https://www.railpark.co.kr) 포토키오스크** | 포토 키오스크 납품 |
+| **용산 크레쉬인 무인 키오스크** | 무인 매장 키오스크 — 결제 연동 출입 도어 관제(결제 시 자동 개폐) · 결제 프로그램 |
 | **고영 · 사세** | 기업 홈페이지 유지보수 |
 | **ARTFLEET** | 동영상 스트리밍 |
 
@@ -66,7 +67,7 @@
 | **백엔드** | Java 21 · Spring Boot 4 · Gradle · Node.js · Python |
 | **웹 프론트** | Next.js · React · TypeScript · Vite |
 | **모바일 / 안드로이드** | Kotlin (재사용 WebView 셸 모듈) · React Native · Expo |
-| **데스크톱** | Electron |
+| **데스크톱** | Electron · C# / .NET |
 | **AI / ML** | LLM (Claude · OpenAI) · Ollama · RAG(벡터 검색) · FastAPI |
 | **실시간 / 데이터** | STOMP · WebSocket · PostgreSQL · Redis |
 | **인프라 / DevOps** | Docker · Nginx · Nexus · GitHub Actions · Linux |
