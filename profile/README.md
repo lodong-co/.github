@@ -34,6 +34,7 @@
 | **[HitRate](https://hitrate.co.kr)** | KBO 야구 데이터 분석 · 승부 예측 (투구 단위 데이터 기반) |
 | **[HRDLMS](https://hrdlo.com)** | HRD · 교육 관리 시스템 (5만+ 동시접속 운영) |
 | **만리향** | 한국주식 분석 (시세 · 차트 · 기술/기본 지표 · AI) |
+| **[콕컷](https://kokcut.com)** | 개발사가 직접 쓰는 IT·개발 칼럼 (SEO·AI 노출 자동화 · 재사용 모듈) |
 
 ## 🛠 사업 영역 (What We Do)
 
